@@ -1,5 +1,5 @@
 #Project Title: 
-##Sentiment Analysis of Tweets about products.
+##Building a Classifier to analyze the user sentiment about a Product.
 
 ###Team:
  - Chaithanya Kumar Anichetty Murali (A20327682)
