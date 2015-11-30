@@ -1,0 +1,2 @@
+ u'iPhone screen dependability is horrible',
+
